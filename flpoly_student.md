@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+##Andy Byssainthe
 
-### Fall 2021
+###Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Analytic Geometry and calculus 1
 
-- Course 2
+- Foundation for academic success
 
-- Course 3
+- introduction to data science
 
-- Course 4
+- introduction to programming using python
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- singing/dancing
 
-- Thing 2
+- working out
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+ <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/07
