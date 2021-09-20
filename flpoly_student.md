@@ -4,7 +4,16 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Analytic Geometry and calculus 1
+| Course Number    | Course name                        |
+---------------------------------------------------------
+| MAC2311          |  Analytic Geometry and calculus 1  |
+---------------------------------------------------------
+| SLS1901          |  Foundation for Academic Success   |
+---------------------------------------------------------
+| COP2073          |  Introduction to Data Science      |
+---------------------------------------------------------
+| COP2034          |  Introduction to programming       |
+---------------------------------------------------------
 
 - Foundation for academic success
 
