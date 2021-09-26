@@ -4,22 +4,7 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-| Course Number    | Course name                        |
----------------------------------------------------------
-| MAC2311          |  Analytic Geometry and calculus 1  |
----------------------------------------------------------
-| SLS1901          |  Foundation for Academic Success   |
----------------------------------------------------------
-| COP2073          |  Introduction to Data Science      |
----------------------------------------------------------
-| COP2034          |  Introduction to programming       |
----------------------------------------------------------
 
-- Foundation for academic success
-
-- introduction to data science
-
-- introduction to programming using python
 
 **Hobbies:**
 
@@ -30,6 +15,13 @@ I am _passionate about_:
 - working out
 
  <https://www.floridapoly.edu>
+**prefix**  |  **Course Number** | _Course name_                        |  Credits  |
+------------|--------------------|--------------------------------------|-----------|
+   **MAC**  |     **2311**       |  _Analytic Geometry and calculus 1_  |     4     |
+   **SLS**  |     **1901**       |  _Foundation for Academic Success_   |     0     |
+   **COP**  |     **2073**       |  _Introduction to Data Science_      |     3     |
+   **COP**  |     **2034**       |  _Introduction to programming_       |     3     |
+   **CTS**  |     **2034**       |  _Clous Infrastructure and Services_ |     3     |
 
 ***
 
